@@ -1,0 +1,675 @@
+Ticker: ACCO
+ - Stock Price: 9.33 P/E: 9.3300 P/E Rank: 90.4351
+P/S: 0.4938 P/S Rank: 92.3172
+P/B: 1.2134 P/B Rank: 78.4326
+P/FCF: 6.0406 P/FCF Rank: 96.6368
+EVEBITDA: 6.2220 EVEBITDA Rank: 93.6131
+DividendAndYield: 2.6800 DividendAndYield Rank: 70.5646
+Overall Rank: 521.9994Six Month Price Movement: -0.13 %
+
+Ticker: ANAT
+ - Stock Price: 153.04 P/E: 6.6398 P/E Rank: 96.1123
+P/S: 1.1025 P/S Rank: 78.8028
+P/B: 0.7655 P/B Rank: 94.7239
+P/FCF: 4.3724 P/FCF Rank: 98.0253
+EVEBITDA: 6.5430 EVEBITDA Rank: 92.5949
+DividendAndYield: 2.2300 DividendAndYield Rank: 65.7976
+Overall Rank: 526.0568Six Month Price Movement: 0.21 %
+
+Ticker: ANF
+ - Stock Price: 20.63 P/E: 27.6171 P/E Rank: 49.8920
+P/S: 0.3745 P/S Rank: 94.7239
+P/B: 1.2080 P/B Rank: 78.5869
+P/FCF: 9.8878 P/FCF Rank: 92.3480
+EVEBITDA: 3.4580 EVEBITDA Rank: 99.0127
+DividendAndYield: 3.8700 DividendAndYield Rank: 81.0398
+Overall Rank: 495.6032Six Month Price Movement: -0.07 %
+
+Ticker: ARCH
+ - Stock Price: 90.86 P/E: 5.9974 P/E Rank: 96.6985
+P/S: 0.6676 P/S Rank: 88.5221
+P/B: 2.2986 P/B Rank: 51.4656
+P/FCF: 8.6231 P/FCF Rank: 94.2302
+EVEBITDA: 3.4010 EVEBITDA Rank: 99.1052
+DividendAndYield: 1.7900 DividendAndYield Rank: 60.8454
+Overall Rank: 490.8670Six Month Price Movement: 0.06 %
+
+Ticker: ARLP
+ - Stock Price: 19.05 P/E: 6.9526 P/E Rank: 95.6803
+P/S: 1.2184 P/S Rank: 76.5813
+P/B: 2.0637 P/B Rank: 56.0012
+P/FCF: 9.7040 P/FCF Rank: 92.7800
+EVEBITDA: 4.7920 EVEBITDA Rank: 97.2077
+DividendAndYield: 11.0800 DividendAndYield Rank: 98.1487
+Overall Rank: 516.3993Six Month Price Movement: -0.01 %
+
+Ticker: BBBY
+ - Stock Price: 16.83 P/E: 7.3590 P/E Rank: 94.9398
+P/S: 0.1860 P/S Rank: 98.3030
+P/B: 0.7741 P/B Rank: 94.6004
+P/FCF: 3.5668 P/FCF Rank: 98.4881
+EVEBITDA: 3.1300 EVEBITDA Rank: 99.2903
+DividendAndYield: 3.9400 DividendAndYield Rank: 81.4409
+Overall Rank: 567.0626Six Month Price Movement: 0.04 %
+
+Ticker: BKE
+ - Stock Price: 18.33 P/E: 9.2669 P/E Rank: 90.6510
+P/S: 0.9829 P/S Rank: 81.5489
+P/B: 2.1479 P/B Rank: 53.8106
+P/FCF: 10.1009 P/FCF Rank: 92.0395
+EVEBITDA: 4.1470 EVEBITDA Rank: 98.1179
+DividendAndYield: 5.5000 DividendAndYield Rank: 88.1055
+Overall Rank: 504.2734Six Month Price Movement: -0.14 %
+
+Ticker: BP
+ - Stock Price: 42.46 P/E: 15.1535 P/E Rank: 72.7553
+P/S: 0.4797 P/S Rank: 92.5332
+P/B: 1.4305 P/B Rank: 71.2743
+P/FCF: 12.0528 P/FCF Rank: 89.6637
+EVEBITDA: 5.7800 EVEBITDA Rank: 94.3999
+DividendAndYield: 5.8000 DividendAndYield Rank: 88.9077
+Overall Rank: 509.5341Six Month Price Movement: -0.01 %
+
+Ticker: BTU
+ - Stock Price: 31.01 P/E: 7.0000 P/E Rank: 95.6186
+P/S: 0.6006 P/S Rank: 89.9414
+P/B: 0.9872 P/B Rank: 86.5474
+P/FCF: 4.9252 P/FCF Rank: 97.6859
+EVEBITDA: 2.9770 EVEBITDA Rank: 99.4755
+DividendAndYield: 1.6700 DividendAndYield Rank: 59.3952
+Overall Rank: 528.6640Six Month Price Movement: -0.19 %
+
+Ticker: CATO
+ - Stock Price: 15.19 P/E: 20.7798 P/E Rank: 60.3826
+P/S: 0.4257 P/S Rank: 93.4897
+P/B: 1.1095 P/B Rank: 82.0117
+P/FCF: 9.3986 P/FCF Rank: 93.3971
+EVEBITDA: 3.1720 EVEBITDA Rank: 99.1978
+DividendAndYield: 8.8200 DividendAndYield Rank: 95.4952
+Overall Rank: 523.9741Six Month Price Movement: -0.23 %
+
+Ticker: CCR
+ - Stock Price: 18.56 P/E: 7.8312 P/E Rank: 93.7056
+P/S: 1.4315 P/S Rank: 72.6628
+P/B: 2.4026 P/B Rank: 49.4600
+P/FCF: 8.2617 P/FCF Rank: 94.6313
+EVEBITDA: 5.7550 EVEBITDA Rank: 94.6004
+DividendAndYield: 11.4200 DividendAndYield Rank: 98.3956
+Overall Rank: 503.4557Six Month Price Movement: 0.08 %
+
+Ticker: CHS
+ - Stock Price: 5.66 P/E: 8.9841 P/E Rank: 91.5150
+P/S: 0.3243 P/S Rank: 95.7729
+P/B: 1.0897 P/B Rank: 82.7214
+P/FCF: 5.6179 P/FCF Rank: 97.0688
+EVEBITDA: 2.8320 EVEBITDA Rank: 99.5372
+DividendAndYield: 6.1700 DividendAndYield Rank: 89.9568
+Overall Rank: 556.5720Six Month Price Movement: -0.28 %
+
+Ticker: CINR
+ - Stock Price: 24.80 P/E: 9.9879 P/E Rank: 88.6146
+P/S: 1.0272 P/S Rank: 80.8392
+P/B: 3.3231 P/B Rank: 38.2907
+P/FCF: 6.2943 P/FCF Rank: 96.4209
+EVEBITDA: 6.5290 EVEBITDA Rank: 92.7029
+DividendAndYield: 9.0900 DividendAndYield Rank: 95.8192
+Overall Rank: 492.6874Six Month Price Movement: -0.02 %
+
+Ticker: CNSL
+ - Stock Price: 10.76 P/E: 12.2134 P/E Rank: 83.0299
+P/S: 0.5435 P/S Rank: 91.2990
+P/B: 1.5887 P/B Rank: 66.5535
+P/FCF: 4.3784 P/FCF Rank: 97.9944
+EVEBITDA: 6.6120 EVEBITDA Rank: 92.2555
+DividendAndYield: 15.4800 DividendAndYield Rank: 99.5989
+Overall Rank: 530.7313Six Month Price Movement: -0.10 %
+
+Ticker: CTL
+ - Stock Price: 13.44 P/E: 1000000.0000 P/E Rank: 13.6840
+P/S: 0.6195 P/S Rank: 89.6020
+P/B: 0.7234 P/B Rank: 95.4335
+P/FCF: 4.1082 P/FCF Rank: 98.1796
+EVEBITDA: 6.0150 EVEBITDA Rank: 94.0142
+DividendAndYield: 16.9000 DividendAndYield Rank: 99.7840
+Overall Rank: 490.6973Six Month Price Movement: -0.29 %
+
+Ticker: DAN
+ - Stock Price: 20.70 P/E: 7.1134 P/E Rank: 95.3101
+P/S: 0.3644 P/S Rank: 95.1250
+P/B: 2.2265 P/B Rank: 52.6381
+P/FCF: 12.7987 P/FCF Rank: 88.8306
+EVEBITDA: 4.8220 EVEBITDA Rank: 97.0688
+DividendAndYield: 2.0000 DividendAndYield Rank: 63.0052
+Overall Rank: 491.9778Six Month Price Movement: 0.12 %
+
+Ticker: DDS
+ - Stock Price: 65.55 P/E: 7.5069 P/E Rank: 94.5079
+P/S: 0.2654 P/S Rank: 96.9454
+P/B: 1.0706 P/B Rank: 83.2459
+P/FCF: 12.9584 P/FCF Rank: 88.6455
+EVEBITDA: 4.9540 EVEBITDA Rank: 96.6677
+DividendAndYield: 0.5900 DividendAndYield Rank: 46.6985
+Overall Rank: 506.7109Six Month Price Movement: -0.13 %
+
+Ticker: DK
+ - Stock Price: 36.92 P/E: 7.3269 P/E Rank: 95.0633
+P/S: 0.3057 P/S Rank: 96.2357
+P/B: 1.7616 P/B Rank: 62.5116
+P/FCF: 10.9348 P/FCF Rank: 91.0213
+EVEBITDA: 4.8490 EVEBITDA Rank: 96.9762
+DividendAndYield: 3.0300 DividendAndYield Rank: 74.8072
+Overall Rank: 516.6152Six Month Price Movement: -0.15 %
+
+Ticker: DKS
+ - Stock Price: 37.97 P/E: 11.4817 P/E Rank: 84.7578
+P/S: 0.4336 P/S Rank: 93.3354
+P/B: 1.9487 P/B Rank: 58.1611
+P/FCF: 9.7023 P/FCF Rank: 92.8417
+EVEBITDA: 5.4350 EVEBITDA Rank: 95.4335
+DividendAndYield: 2.4700 DividendAndYield Rank: 68.5282
+Overall Rank: 493.0577Six Month Price Movement: 0.08 %
+
+Ticker: EQNR
+ - Stock Price: 22.66 P/E: 10.0044 P/E Rank: 88.5221
+P/S: 0.9694 P/S Rank: 81.7340
+P/B: 1.7555 P/B Rank: 62.7276
+P/FCF: 6.4215 P/FCF Rank: 96.2666
+EVEBITDA: 3.0590 EVEBITDA Rank: 99.3829
+DividendAndYield: 4.5200 DividendAndYield Rank: 84.2795
+Overall Rank: 512.9127Six Month Price Movement: -0.10 %
+
+Ticker: ETH
+ - Stock Price: 19.69 P/E: 15.1929 P/E Rank: 72.5393
+P/S: 0.6780 P/S Rank: 88.3369
+P/B: 1.4161 P/B Rank: 71.7680
+P/FCF: 9.5771 P/FCF Rank: 93.0268
+EVEBITDA: 7.2360 EVEBITDA Rank: 89.9722
+DividendAndYield: 3.9000 DividendAndYield Rank: 81.2249
+Overall Rank: 496.8683Six Month Price Movement: -0.04 %
+
+Ticker: EVC
+ - Stock Price: 4.03 P/E: 20.1500 P/E Rank: 61.6168
+P/S: 1.2382 P/S Rank: 76.2728
+P/B: 1.0675 P/B Rank: 83.3693
+P/FCF: 1.4653 P/FCF Rank: 99.7532
+EVEBITDA: 8.3270 EVEBITDA Rank: 85.2515
+DividendAndYield: 5.0600 DividendAndYield Rank: 86.6245
+Overall Rank: 492.8880Six Month Price Movement: -0.07 %
+
+Ticker: EXPR
+ - Stock Price: 5.21 P/E: 10.1758 P/E Rank: 87.9975
+P/S: 0.1647 P/S Rank: 98.6424
+P/B: 0.6045 P/B Rank: 97.0071
+P/FCF: 6.5455 P/FCF Rank: 96.1432
+EVEBITDA: 1.8650 EVEBITDA Rank: 99.8149
+DividendAndYield: 0.0000 DividendAndYield Rank: 21.8760
+Overall Rank: 501.4810Six Month Price Movement: -0.38 %
+
+Ticker: F
+ - Stock Price: 8.71 P/E: 9.4674 P/E Rank: 90.0956
+P/S: 0.2161 P/S Rank: 97.8402
+P/B: 0.9869 P/B Rank: 86.5782
+P/FCF: 12.0749 P/FCF Rank: 89.6328
+EVEBITDA: 14.4400 EVEBITDA Rank: 60.5060
+DividendAndYield: 6.8000 DividendAndYield Rank: 91.2836
+Overall Rank: 515.9364Six Month Price Movement: -0.10 %
+
+Ticker: GCI
+ - Stock Price: 10.78 P/E: 82.2901 P/E Rank: 33.0762
+P/S: 0.4038 P/S Rank: 94.0759
+P/B: 1.0672 P/B Rank: 83.4002
+P/FCF: 5.2808 P/FCF Rank: 97.3774
+EVEBITDA: 4.9880 EVEBITDA Rank: 96.5134
+DividendAndYield: 5.6900 DividendAndYield Rank: 88.5838
+Overall Rank: 493.0268Six Month Price Movement: 0.05 %
+
+Ticker: GME
+ - Stock Price: 11.37 P/E: 1000000.0000 P/E Rank: 13.6840
+P/S: 0.1265 P/S Rank: 99.0435
+P/B: 0.7410 P/B Rank: 95.0941
+P/FCF: 6.8204 P/FCF Rank: 95.9580
+EVEBITDA: 2.5390 EVEBITDA Rank: 99.6606
+DividendAndYield: 13.4200 DividendAndYield Rank: 99.3521
+Overall Rank: 502.7923Six Month Price Movement: -0.20 %
+
+Ticker: GSM
+ - Stock Price: 2.11 P/E: 3.3228 P/E Rank: 99.0127
+P/S: 0.1697 P/S Rank: 98.4881
+P/B: 0.3674 P/B Rank: 99.3212
+P/FCF: 2.8000 P/FCF Rank: 98.7350
+EVEBITDA: 3.0800 EVEBITDA Rank: 99.3212
+DividendAndYield: 11.7100 DividendAndYield Rank: 98.7041
+Overall Rank: 593.5822Six Month Price Movement: -0.67 %
+
+Ticker: GT
+ - Stock Price: 19.35 P/E: 6.6955 P/E Rank: 96.0506
+P/S: 0.2903 P/S Rank: 96.5751
+P/B: 0.9236 P/B Rank: 89.2626
+P/FCF: 35.7297 P/FCF Rank: 65.1342
+EVEBITDA: 5.2150 EVEBITDA Rank: 95.8346
+DividendAndYield: 3.3700 DividendAndYield Rank: 77.5378
+Overall Rank: 520.3949Six Month Price Movement: -0.15 %
+
+Ticker: HBM
+ - Stock Price: 6.88 P/E: 8.6650 P/E Rank: 92.2246
+P/S: 1.1910 P/S Rank: 76.9516
+P/B: 0.8189 P/B Rank: 93.5205
+P/FCF: 8.8341 P/FCF Rank: 93.8599
+EVEBITDA: 3.4750 EVEBITDA Rank: 98.9818
+DividendAndYield: 0.2400 DividendAndYield Rank: 44.2765
+Overall Rank: 499.8149Six Month Price Movement: 0.29 %
+
+Ticker: HCLP
+ - Stock Price: 4.15 P/E: 2.9225 P/E Rank: 99.2595
+P/S: 0.4967 P/S Rank: 92.2555
+P/B: 0.5186 P/B Rank: 98.1179
+P/FCF: 2.1877 P/FCF Rank: 99.3829
+EVEBITDA: 3.6420 EVEBITDA Rank: 98.7658
+DividendAndYield: 0.0000 DividendAndYield Rank: 21.8760
+Overall Rank: 509.6575Six Month Price Movement: -0.56 %
+
+Ticker: HFC
+ - Stock Price: 55.52 P/E: 6.7110 P/E Rank: 96.0197
+P/S: 0.5526 P/S Rank: 91.1447
+P/B: 1.5960 P/B Rank: 66.4301
+P/FCF: 12.9350 P/FCF Rank: 88.7072
+EVEBITDA: 5.3750 EVEBITDA Rank: 95.4952
+DividendAndYield: 2.3100 DividendAndYield Rank: 66.8158
+Overall Rank: 504.6128Six Month Price Movement: -0.15 %
+
+Ticker: ICL
+ - Stock Price: 5.60 P/E: 5.7732 P/E Rank: 97.0071
+P/S: 1.2653 P/S Rank: 75.8099
+P/B: 1.8932 P/B Rank: 59.7346
+P/FCF: 12.2075 P/FCF Rank: 89.4477
+EVEBITDA: 4.9240 EVEBITDA Rank: 96.7603
+DividendAndYield: 3.4900 DividendAndYield Rank: 78.6331
+Overall Rank: 497.3928Six Month Price Movement: 0.03 %
+
+Ticker: IGT
+ - Stock Price: 17.36 P/E: 22.1146 P/E Rank: 57.8525
+P/S: 0.7219 P/S Rank: 87.5656
+P/B: 1.3076 P/B Rank: 75.5014
+P/FCF: 3.9121 P/FCF Rank: 98.3030
+EVEBITDA: 7.3290 EVEBITDA Rank: 89.7254
+DividendAndYield: 4.8600 DividendAndYield Rank: 85.7451
+Overall Rank: 494.6930Six Month Price Movement: -0.13 %
+
+Ticker: KHC
+ - Stock Price: 34.95 P/E: 4.1327 P/E Rank: 98.5190
+P/S: 1.6169 P/S Rank: 69.5773
+P/B: 0.6516 P/B Rank: 96.5443
+P/FCF: 13.6109 P/FCF Rank: 87.5039
+EVEBITDA: 11.7240 EVEBITDA Rank: 70.6263
+DividendAndYield: 5.2300 DividendAndYield Rank: 87.1182
+Overall Rank: 509.8889Six Month Price Movement: -0.36 %
+
+Ticker: KNOP
+ - Stock Price: 18.58 P/E: 7.6524 P/E Rank: 94.1993
+P/S: 2.3100 P/S Rank: 61.4625
+P/B: 0.9466 P/B Rank: 88.3061
+P/FCF: 4.3845 P/FCF Rank: 97.9327
+EVEBITDA: 8.8040 EVEBITDA Rank: 83.2768
+DividendAndYield: 11.2800 DividendAndYield Rank: 98.2721
+Overall Rank: 523.4496Six Month Price Movement: -0.10 %
+
+Ticker: KRO
+ - Stock Price: 15.94 P/E: 8.0873 P/E Rank: 93.1811
+P/S: 1.0463 P/S Rank: 80.3147
+P/B: 2.1155 P/B Rank: 54.5202
+P/FCF: 14.7526 P/FCF Rank: 86.0845
+EVEBITDA: 4.0250 EVEBITDA Rank: 98.3338
+DividendAndYield: 4.6900 DividendAndYield Rank: 84.9121
+Overall Rank: 497.3465Six Month Price Movement: -0.10 %
+
+Ticker: KSS
+ - Stock Price: 64.37 P/E: 10.7176 P/E Rank: 86.6091
+P/S: 0.5458 P/S Rank: 91.2373
+P/B: 1.9478 P/B Rank: 58.1919
+P/FCF: 7.3879 P/FCF Rank: 95.5261
+EVEBITDA: 5.5720 EVEBITDA Rank: 95.0478
+DividendAndYield: 3.6800 DividendAndYield Rank: 79.6668
+Overall Rank: 506.2789Six Month Price Movement: -0.10 %
+
+Ticker: M
+ - Stock Price: 24.06 P/E: 4.4018 P/E Rank: 98.3647
+P/S: 0.2942 P/S Rank: 96.5443
+P/B: 1.3054 P/B Rank: 75.6248
+P/FCF: 9.1996 P/FCF Rank: 93.5822
+EVEBITDA: 4.7630 EVEBITDA Rank: 97.2848
+DividendAndYield: 5.9600 DividendAndYield Rank: 89.3551
+Overall Rank: 550.7559Six Month Price Movement: -0.28 %
+
+Ticker: MAN
+ - Stock Price: 84.96 P/E: 9.9252 P/E Rank: 88.7380
+P/S: 0.2389 P/S Rank: 97.5625
+P/B: 2.0035 P/B Rank: 57.1429
+P/FCF: 13.8511 P/FCF Rank: 87.1027
+EVEBITDA: 6.5530 EVEBITDA Rank: 92.5332
+DividendAndYield: 2.4200 DividendAndYield Rank: 67.9574
+Overall Rank: 491.0367Six Month Price Movement: 0.02 %
+
+Ticker: MAXR
+ - Stock Price: 7.01 P/E: 1000000.0000 P/E Rank: 13.6840
+P/S: 0.1901 P/S Rank: 98.2413
+P/B: 0.2428 P/B Rank: 99.7223
+P/FCF: 1.3828 P/FCF Rank: 99.7840
+EVEBITDA: 6.2830 EVEBITDA Rank: 93.3662
+DividendAndYield: 16.2200 DividendAndYield Rank: 99.7223
+Overall Rank: 504.5202Six Month Price Movement: -0.77 %
+
+Ticker: MDR
+ - Stock Price: 7.74 P/E: 9.0845 P/E Rank: 91.2681
+P/S: 0.2613 P/S Rank: 97.0380
+P/B: 0.3950 P/B Rank: 99.1361
+P/FCF: 0.6444 P/FCF Rank: 99.8766
+EVEBITDA: 6.2790 EVEBITDA Rank: 93.3971
+DividendAndYield: 0.0000 DividendAndYield Rank: 21.8760
+Overall Rank: 502.5918Six Month Price Movement: -0.48 %
+
+Ticker: MERC
+ - Stock Price: 14.65 P/E: 7.4745 P/E Rank: 94.5387
+P/S: 0.6550 P/S Rank: 88.7998
+P/B: 1.6420 P/B Rank: 65.2885
+P/FCF: 2.7696 P/FCF Rank: 98.7967
+EVEBITDA: 4.9200 EVEBITDA Rank: 96.7911
+DividendAndYield: 3.2600 DividendAndYield Rank: 76.8281
+Overall Rank: 521.0429Six Month Price Movement: -0.05 %
+
+Ticker: MGA
+ - Stock Price: 54.44 P/E: 8.0177 P/E Rank: 93.3354
+P/S: 0.4154 P/S Rank: 93.7982
+P/B: 1.6643 P/B Rank: 64.7023
+P/FCF: 19.8296 P/FCF Rank: 79.4508
+EVEBITDA: 5.0180 EVEBITDA Rank: 96.4826
+DividendAndYield: 2.5700 DividendAndYield Rank: 69.3150
+Overall Rank: 497.0842Six Month Price Movement: 0.00 %
+
+Ticker: MMLP
+ - Stock Price: 12.51 P/E: 11.2703 P/E Rank: 85.2515
+P/S: 0.5020 P/S Rank: 92.0703
+P/B: 1.8920 P/B Rank: 59.7655
+P/FCF: 8.7431 P/FCF Rank: 94.0142
+EVEBITDA: 9.4400 EVEBITDA Rank: 80.3147
+DividendAndYield: 16.0800 DividendAndYield Rank: 99.6915
+Overall Rank: 511.1077Six Month Price Movement: -0.00 %
+
+Ticker: MNK
+ - Stock Price: 21.49 P/E: 1.0869 P/E Rank: 99.7840
+P/S: 0.5417 P/S Rank: 91.3607
+P/B: 0.2709 P/B Rank: 99.6297
+P/FCF: 4.3897 P/FCF Rank: 97.9019
+EVEBITDA: 5.2960 EVEBITDA Rank: 95.7421
+DividendAndYield: 0.0000 DividendAndYield Rank: 21.8760
+Overall Rank: 506.2944Six Month Price Movement: -0.09 %
+
+Ticker: NGHCN
+ - Stock Price: 20.60 P/E: 15.3502 P/E Rank: 71.9222
+P/S: 0.6388 P/S Rank: 88.9232
+P/B: 1.3734 P/B Rank: 73.3107
+P/FCF: 19.8264 P/FCF Rank: 79.4816
+EVEBITDA: 7.3880 EVEBITDA Rank: 89.5094
+DividendAndYield: 9.5400 DividendAndYield Rank: 96.5906
+Overall Rank: 499.7377Six Month Price Movement: -0.13 %
+
+Ticker: NGHCO
+ - Stock Price: 20.70 P/E: 15.4247 P/E Rank: 71.8297
+P/S: 0.6379 P/S Rank: 88.9849
+P/B: 1.3801 P/B Rank: 73.0947
+P/FCF: 19.7966 P/FCF Rank: 79.5434
+EVEBITDA: 7.4360 EVEBITDA Rank: 89.2934
+DividendAndYield: 9.5600 DividendAndYield Rank: 96.6368
+Overall Rank: 499.3829Six Month Price Movement: -0.13 %
+
+Ticker: NGHCP
+ - Stock Price: 21.10 P/E: 15.7228 P/E Rank: 70.9349
+P/S: 0.6282 P/S Rank: 89.3243
+P/B: 1.4068 P/B Rank: 72.2616
+P/FCF: 19.4967 P/FCF Rank: 79.9445
+EVEBITDA: 7.7270 EVEBITDA Rank: 87.9050
+DividendAndYield: 9.0200 DividendAndYield Rank: 95.6958
+Overall Rank: 496.0660Six Month Price Movement: -0.12 %
+
+Ticker: NGL
+ - Stock Price: 13.40 P/E: 5.2100 P/E Rank: 97.5008
+P/S: 0.0687 P/S Rank: 99.5680
+P/B: 0.7970 P/B Rank: 94.1376
+P/FCF: 41.0866 P/FCF Rank: 62.7276
+EVEBITDA: 8.8270 EVEBITDA Rank: 83.1379
+DividendAndYield: 11.8300 DividendAndYield Rank: 98.8275
+Overall Rank: 535.8994Six Month Price Movement: 0.18 %
+
+Ticker: NRP
+ - Stock Price: 41.11 P/E: 7.6942 P/E Rank: 94.1068
+P/S: 1.4618 P/S Rank: 71.9840
+P/B: 1.3165 P/B Rank: 75.2546
+P/FCF: 8.0141 P/FCF Rank: 94.8164
+EVEBITDA: 7.8010 EVEBITDA Rank: 87.6273
+DividendAndYield: 4.3100 DividendAndYield Rank: 83.3385
+Overall Rank: 507.1274Six Month Price Movement: 0.21 %
+
+Ticker: ODP
+ - Stock Price: 3.35 P/E: 29.9107 P/E Rank: 47.6396
+P/S: 0.1678 P/S Rank: 98.5498
+P/B: 0.8381 P/B Rank: 93.1194
+P/FCF: 4.0046 P/FCF Rank: 98.2413
+EVEBITDA: 5.0980 EVEBITDA Rank: 96.2049
+DividendAndYield: 2.9700 DividendAndYield Rank: 74.0975
+Overall Rank: 507.8525Six Month Price Movement: 0.16 %
+
+Ticker: OLN
+ - Stock Price: 26.33 P/E: 13.5026 P/E Rank: 78.4326
+P/S: 0.6266 P/S Rank: 89.4168
+P/B: 1.5367 P/B Rank: 68.1580
+P/FCF: 9.9386 P/FCF Rank: 92.2555
+EVEBITDA: 6.1480 EVEBITDA Rank: 93.7982
+DividendAndYield: 3.1400 DividendAndYield Rank: 75.5168
+Overall Rank: 497.5779Six Month Price Movement: 0.00 %
+
+Ticker: OSB
+ - Stock Price: 27.72 P/E: 6.4918 P/E Rank: 96.3591
+P/S: 0.9327 P/S Rank: 82.8757
+P/B: 2.7519 P/B Rank: 44.1839
+P/FCF: 7.3225 P/FCF Rank: 95.5878
+EVEBITDA: 3.8020 EVEBITDA Rank: 98.5190
+DividendAndYield: 4.2500 DividendAndYield Rank: 82.8448
+Overall Rank: 500.3703Six Month Price Movement: -0.18 %
+
+Ticker: PDCO
+ - Stock Price: 22.40 P/E: 13.4940 P/E Rank: 78.5251
+P/S: 0.3791 P/S Rank: 94.5696
+P/B: 1.4298 P/B Rank: 71.3360
+P/FCF: 5.5981 P/FCF Rank: 97.0997
+EVEBITDA: 12.8860 EVEBITDA Rank: 65.8747
+DividendAndYield: 4.4100 DividendAndYield Rank: 83.9556
+Overall Rank: 491.3607Six Month Price Movement: -0.03 %
+
+Ticker: PFG
+ - Stock Price: 52.87 P/E: 9.8638 P/E Rank: 89.0466
+P/S: 1.0335 P/S Rank: 80.5924
+P/B: 1.2974 P/B Rank: 75.9334
+P/FCF: 4.0319 P/FCF Rank: 98.2104
+EVEBITDA: 7.2130 EVEBITDA Rank: 90.0956
+DividendAndYield: 4.2100 DividendAndYield Rank: 82.7214
+Overall Rank: 516.5998Six Month Price Movement: 0.00 %
+
+Ticker: QUAD
+ - Stock Price: 15.74 P/E: 9.6624 P/E Rank: 89.5094
+P/S: 0.1938 P/S Rank: 98.1796
+P/B: 1.6416 P/B Rank: 65.3502
+P/FCF: 3.5474 P/FCF Rank: 98.5190
+EVEBITDA: 4.3440 EVEBITDA Rank: 97.7785
+DividendAndYield: 8.3000 DividendAndYield Rank: 94.6159
+Overall Rank: 543.9525Six Month Price Movement: -0.14 %
+
+Ticker: RFP
+ - Stock Price: 8.53 P/E: 3.3849 P/E Rank: 98.9818
+P/S: 0.2063 P/S Rank: 97.9636
+P/B: 0.5093 P/B Rank: 98.2721
+P/FCF: 2.2942 P/FCF Rank: 99.2595
+EVEBITDA: 1.8180 EVEBITDA Rank: 99.8766
+DividendAndYield: 0.0000 DividendAndYield Rank: 21.8760
+Overall Rank: 516.2296Six Month Price Movement: -0.12 %
+
+Ticker: RLGY
+ - Stock Price: 18.19 P/E: 5.6879 P/E Rank: 97.0688
+P/S: 0.3484 P/S Rank: 95.4335
+P/B: 0.8945 P/B Rank: 90.8979
+P/FCF: 8.7367 P/FCF Rank: 94.0759
+EVEBITDA: 8.3470 EVEBITDA Rank: 85.1280
+DividendAndYield: 1.9600 DividendAndYield Rank: 62.4961
+Overall Rank: 525.1003Six Month Price Movement: -0.11 %
+
+Ticker: RYAM
+ - Stock Price: 14.98 P/E: 7.6546 P/E Rank: 94.1685
+P/S: 0.3584 P/S Rank: 95.2792
+P/B: 1.0506 P/B Rank: 83.8630
+P/FCF: 7.4692 P/FCF Rank: 95.4335
+EVEBITDA: 5.1380 EVEBITDA Rank: 96.0352
+DividendAndYield: 1.8700 DividendAndYield Rank: 61.5396
+Overall Rank: 526.3190Six Month Price Movement: -0.08 %
+
+Ticker: SAH
+ - Stock Price: 14.88 P/E: 7.0024 P/E Rank: 95.5878
+P/S: 0.0633 P/S Rank: 99.6606
+P/B: 0.7914 P/B Rank: 94.2302
+P/FCF: 5.4576 P/FCF Rank: 97.2539
+EVEBITDA: 9.6840 EVEBITDA Rank: 79.1422
+DividendAndYield: 1.5100 DividendAndYield Rank: 57.5440
+Overall Rank: 523.4187Six Month Price Movement: -0.20 %
+
+Ticker: SCHN
+ - Stock Price: 24.61 P/E: 4.5498 P/E Rank: 98.2721
+P/S: 0.2638 P/S Rank: 96.9762
+P/B: 1.0074 P/B Rank: 85.6217
+P/FCF: 16.4037 P/FCF Rank: 84.0790
+EVEBITDA: 4.2340 EVEBITDA Rank: 97.9944
+DividendAndYield: 3.1800 DividendAndYield Rank: 75.7328
+Overall Rank: 538.6763Six Month Price Movement: -0.12 %
+
+Ticker: SPTN
+ - Stock Price: 19.33 P/E: 8.2961 P/E Rank: 92.7800
+P/S: 0.0845 P/S Rank: 99.4138
+P/B: 0.9434 P/B Rank: 88.3678
+P/FCF: 17.7868 P/FCF Rank: 82.1969
+EVEBITDA: 7.4600 EVEBITDA Rank: 89.2317
+DividendAndYield: 3.3100 DividendAndYield Rank: 77.1675
+Overall Rank: 529.1577Six Month Price Movement: -0.07 %
+
+Ticker: SXCP
+ - Stock Price: 14.54 P/E: 11.9278 P/E Rank: 83.5545
+P/S: 0.7534 P/S Rank: 86.8251
+P/B: 1.2317 P/B Rank: 77.8155
+P/FCF: 8.4136 P/FCF Rank: 94.4770
+EVEBITDA: 7.1380 EVEBITDA Rank: 90.4659
+DividendAndYield: 11.0500 DividendAndYield Rank: 98.1179
+Overall Rank: 531.2558Six Month Price Movement: 0.00 %
+
+Ticker: T
+ - Stock Price: 31.15 P/E: 10.9298 P/E Rank: 86.3314
+P/S: 1.3284 P/S Rank: 74.5140
+P/B: 1.2322 P/B Rank: 77.7538
+P/FCF: 13.3535 P/FCF Rank: 87.9975
+EVEBITDA: 7.1540 EVEBITDA Rank: 90.4042
+DividendAndYield: 6.8500 DividendAndYield Rank: 91.4070
+Overall Rank: 508.4079Six Month Price Movement: -0.01 %
+
+Ticker: TEN
+ - Stock Price: 36.25 P/E: 8.0861 P/E Rank: 93.2120
+P/S: 0.2969 P/S Rank: 96.4517
+P/B: 2.5297 P/B Rank: 47.1151
+P/FCF: 8.8278 P/FCF Rank: 93.8908
+EVEBITDA: 5.0550 EVEBITDA Rank: 96.3900
+DividendAndYield: 2.7700 DividendAndYield Rank: 71.7834
+Overall Rank: 498.8429Six Month Price Movement: -0.07 %
+
+Ticker: TOT
+ - Stock Price: 56.83 P/E: 13.4033 P/E Rank: 78.8337
+P/S: 0.8087 P/S Rank: 85.3749
+P/B: 1.2817 P/B Rank: 76.2110
+P/FCF: 15.5495 P/FCF Rank: 85.0972
+EVEBITDA: 5.4600 EVEBITDA Rank: 95.3101
+DividendAndYield: 5.2500 DividendAndYield Rank: 87.1799
+Overall Rank: 508.0068Six Month Price Movement: -0.04 %
+
+Ticker: TRK
+ - Stock Price: 17.83 P/E: 4.3755 P/E Rank: 98.4264
+P/S: 1.5272 P/S Rank: 70.9658
+P/B: 0.7647 P/B Rank: 94.7547
+P/FCF: 14.8653 P/FCF Rank: 85.8994
+EVEBITDA: 6.3140 EVEBITDA Rank: 93.2891
+DividendAndYield: 3.5100 DividendAndYield Rank: 78.9263
+Overall Rank: 522.2616Six Month Price Movement: 0.05 %
+
+Ticker: TUSK
+ - Stock Price: 23.70 P/E: 4.5594 P/E Rank: 98.2104
+P/S: 0.5956 P/S Rank: 90.0339
+P/B: 1.5344 P/B Rank: 68.2814
+P/FCF: 6.3081 P/FCF Rank: 96.3591
+EVEBITDA: 1.8450 EVEBITDA Rank: 99.8457
+DividendAndYield: 2.2200 DividendAndYield Rank: 65.6896
+Overall Rank: 518.4202Six Month Price Movement: -0.19 %
+
+Ticker: TX
+ - Stock Price: 30.56 P/E: 4.5530 P/E Rank: 98.2413
+P/S: 0.5300 P/S Rank: 91.6692
+P/B: 1.0100 P/B Rank: 85.4674
+P/FCF: 6.4237 P/FCF Rank: 96.2357
+EVEBITDA: 3.5340 EVEBITDA Rank: 98.8892
+DividendAndYield: 3.4800 DividendAndYield Rank: 78.5097
+Overall Rank: 549.0127Six Month Price Movement: -0.04 %
+
+Ticker: UFS
+ - Stock Price: 52.69 P/E: 11.7612 P/E Rank: 84.1098
+P/S: 0.6076 P/S Rank: 89.8797
+P/B: 1.3058 P/B Rank: 75.5940
+P/FCF: 7.7775 P/FCF Rank: 95.0941
+EVEBITDA: 5.5050 EVEBITDA Rank: 95.2484
+DividendAndYield: 3.3900 DividendAndYield Rank: 77.7538
+Overall Rank: 517.6797Six Month Price Movement: 0.12 %
+
+Ticker: VEON
+ - Stock Price: 2.41 P/E: 14.6061 P/E Rank: 74.4215
+P/S: 0.4603 P/S Rank: 92.7800
+P/B: 1.0769 P/B Rank: 83.0916
+P/FCF: 5.7666 P/FCF Rank: 96.9454
+EVEBITDA: 3.1590 EVEBITDA Rank: 99.2286
+DividendAndYield: 11.5100 DividendAndYield Rank: 98.4573
+Overall Rank: 544.9244Six Month Price Movement: -0.10 %
+
+Ticker: VIAB
+ - Stock Price: 29.19 P/E: 7.8257 P/E Rank: 93.7365
+P/S: 0.9297 P/S Rank: 82.9374
+P/B: 1.5341 P/B Rank: 68.3122
+P/FCF: 1.8471 P/FCF Rank: 99.5680
+EVEBITDA: 6.7400 EVEBITDA Rank: 91.8235
+DividendAndYield: 2.7400 DividendAndYield Rank: 71.3052
+Overall Rank: 507.6828Six Month Price Movement: -0.02 %
+
+Ticker: VRS
+ - Stock Price: 25.80 P/E: 7.4010 P/E Rank: 94.8781
+P/S: 0.3395 P/S Rank: 95.5261
+P/B: 1.0638 P/B Rank: 83.4310
+P/FCF: 5.4483 P/FCF Rank: 97.2848
+EVEBITDA: 4.0570 EVEBITDA Rank: 98.2721
+DividendAndYield: 0.0000 DividendAndYield Rank: 21.8760
+Overall Rank: 491.2681Six Month Price Movement: 0.03 %
+
+Ticker: XIN
+ - Stock Price: 5.05 P/E: 4.3913 P/E Rank: 98.3956
+P/S: 0.1474 P/S Rank: 98.8892
+P/B: 0.4551 P/B Rank: 98.7041
+P/FCF: 1000000.0000 P/FCF Rank: 25.6094
+EVEBITDA: 8.0930 EVEBITDA Rank: 86.3777
+DividendAndYield: 7.9400 DividendAndYield Rank: 93.8291
+Overall Rank: 501.8050Six Month Price Movement: 0.11 %
+
+Ticker: YRD
+ - Stock Price: 14.04 P/E: 5.2842 P/E Rank: 97.4699
+P/S: 0.0000 P/S Rank: 99.9691
+P/B: 1.1903 P/B Rank: 79.1731
+P/FCF: 0.0000 P/FCF Rank: 99.9691
+EVEBITDA: 0.0000 EVEBITDA Rank: 99.9691
+DividendAndYield: 4.6500 DividendAndYield Rank: 84.8195
+Overall Rank: 561.3699Six Month Price Movement: -0.21 %
+
